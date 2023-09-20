@@ -1,0 +1,10 @@
+package io.springbootstater;
+
+public class CourseApi {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
